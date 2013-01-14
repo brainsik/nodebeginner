@@ -1,5 +1,4 @@
-var querystring = require('querystring'),
-  fs = require('fs');
+var querystring = require('querystring');
 
 function start(response, postData) {
   console.log("Request handler 'start' was called.");
