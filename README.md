@@ -1,4 +1,4 @@
 nodebeginner
 ============
 
-Going through nodebeginner.org
+Going through nodebeginner.org.
